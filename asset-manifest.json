@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3a564498.css",
-    "main.js": "/static/js/main.eb61dfd9.js",
+    "main.js": "/static/js/main.1d98711d.js",
     "static/js/314.db9b4d45.chunk.js": "/static/js/314.db9b4d45.chunk.js",
     "static/js/906.d6c9600d.chunk.js": "/static/js/906.d6c9600d.chunk.js",
     "static/media/battle.mp3": "/static/media/battle.caec9aa1e79320b6ba9b.mp3",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.3a564498.css",
-    "static/js/main.eb61dfd9.js"
+    "static/js/main.1d98711d.js"
   ]
 }
