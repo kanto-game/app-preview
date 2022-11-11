@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a564498.css",
+    "main.js": "/static/js/main.41e0c381.js",
+    "static/js/314.db9b4d45.chunk.js": "/static/js/314.db9b4d45.chunk.js",
+    "static/js/906.d6c9600d.chunk.js": "/static/js/906.d6c9600d.chunk.js",
+    "static/media/battle.mp3": "/static/media/battle.caec9aa1e79320b6ba9b.mp3",
+    "static/media/background.mp3": "/static/media/background.3da605a739628cdc0bf3.mp3",
+    "static/media/cairo-regular.ttf": "/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
+    "static/media/map.png": "/static/media/map.0fe84214d322e5ff17bb.png",
+    "static/media/circular-std-medium.otf": "/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
+    "static/media/map-top.png": "/static/media/map-top.c378bed3b01b734e5968.png",
+    "static/media/capture-success.mp3": "/static/media/capture-success.dc8e84ed1dcb9ebe928a.mp3",
+    "static/media/power-bold.ttf": "/static/media/power-bold.fc5a5f2916510631b013.ttf",
+    "static/media/capture-failed.mp3": "/static/media/capture-failed.f4b14154ac84805e2aae.mp3",
+    "static/media/power-small.ttf": "/static/media/power-small.c62c612c49c17406e0dc.ttf",
+    "static/media/background.svg": "/static/media/background.4655550490853f8023d1.svg",
+    "static/media/field-background.svg": "/static/media/field-background.da6cf66212b72a54d877.svg",
+    "static/media/title.svg": "/static/media/title.070fe17d7b7bd04db943216efb1be311.svg",
+    "static/media/grass-bottom.svg": "/static/media/grass-bottom.c8992ec9f12076fb9205.svg",
+    "static/media/mystery-ball.svg": "/static/media/mystery-ball.5d73db99d3088a3d535b98018137b41c.svg",
+    "static/media/grass-top.svg": "/static/media/grass-top.720d6d8b52349e446366.svg",
+    "static/media/connect-wallet.svg": "/static/media/connect-wallet.c4bbe98a026d47e65ab5.svg",
+    "static/media/empty-pokeball.svg": "/static/media/empty-pokeball.6bc8a720884ffec95f0cca9baa9ce2d6.svg",
+    "static/media/open-ball.svg": "/static/media/open-ball.86f35f1795ca245bcbba68dc5d429fa9.svg",
+    "index.html": "/index.html",
+    "static/media/buy-button.svg": "/static/media/buy-button.9a0837a1cc8b451eef20.svg",
+    "static/media/checkout.svg": "/static/media/checkout.12258042d0c48f5bdd6a.svg",
+    "static/media/store-button.svg": "/static/media/store-button.f8d76345186e444b7c1d.svg",
+    "static/media/checkout-empty.svg": "/static/media/checkout-empty.bf71d2955e9ad5e28035.svg",
+    "static/media/inventory-button.svg": "/static/media/inventory-button.4533098a918628b11428.svg",
+    "static/media/close-button.svg": "/static/media/close-button.d726017123b9e17b30340e0a4e049b61.svg"
+  },
+  "entrypoints": [
+    "static/css/main.3a564498.css",
+    "static/js/main.41e0c381.js"
+  ]
+}

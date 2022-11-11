@@ -1,0 +1,1 @@
+(self.webpackChunkkanto_app=self.webpackChunkkanto_app||[]).push([[314],{314:function(){}}]);
