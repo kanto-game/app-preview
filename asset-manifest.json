@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae7c02d8.css",
-    "main.js": "/static/js/main.e4596c67.js",
+    "main.css": "/static/css/main.d52f99df.css",
+    "main.js": "/static/js/main.1ef63774.js",
     "static/js/314.db9b4d45.chunk.js": "/static/js/314.db9b4d45.chunk.js",
     "static/js/906.d6c9600d.chunk.js": "/static/js/906.d6c9600d.chunk.js",
     "static/media/battle.mp3": "/static/media/battle.caec9aa1e79320b6ba9b.mp3",
@@ -24,15 +24,12 @@
     "static/media/empty-pokeball.svg": "/static/media/empty-pokeball.6bc8a720884ffec95f0cca9baa9ce2d6.svg",
     "static/media/open-ball.svg": "/static/media/open-ball.86f35f1795ca245bcbba68dc5d429fa9.svg",
     "index.html": "/index.html",
-    "static/media/buy-button.svg": "/static/media/buy-button.9a0837a1cc8b451eef20.svg",
-    "static/media/checkout.svg": "/static/media/checkout.12258042d0c48f5bdd6a.svg",
-    "static/media/store-button.svg": "/static/media/store-button.f8d76345186e444b7c1d.svg",
-    "static/media/checkout-empty.svg": "/static/media/checkout-empty.bf71d2955e9ad5e28035.svg",
-    "static/media/inventory-button.svg": "/static/media/inventory-button.4533098a918628b11428.svg",
+    "static/media/pixel-button-yellow.svg": "/static/media/pixel-button-yellow.12258042d0c48f5bdd6a.svg",
+    "static/media/pixel-button-grey.svg": "/static/media/pixel-button-grey.bf71d2955e9ad5e28035.svg",
     "static/media/close-button.svg": "/static/media/close-button.d726017123b9e17b30340e0a4e049b61.svg"
   },
   "entrypoints": [
-    "static/css/main.ae7c02d8.css",
-    "static/js/main.e4596c67.js"
+    "static/css/main.d52f99df.css",
+    "static/js/main.1ef63774.js"
   ]
 }
