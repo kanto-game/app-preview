@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f22cac9.css",
-    "main.js": "/static/js/main.f303cdfe.js",
+    "main.css": "/static/css/main.ae7c02d8.css",
+    "main.js": "/static/js/main.e4596c67.js",
     "static/js/314.db9b4d45.chunk.js": "/static/js/314.db9b4d45.chunk.js",
     "static/js/906.d6c9600d.chunk.js": "/static/js/906.d6c9600d.chunk.js",
     "static/media/battle.mp3": "/static/media/battle.caec9aa1e79320b6ba9b.mp3",
@@ -32,7 +32,7 @@
     "static/media/close-button.svg": "/static/media/close-button.d726017123b9e17b30340e0a4e049b61.svg"
   },
   "entrypoints": [
-    "static/css/main.8f22cac9.css",
-    "static/js/main.f303cdfe.js"
+    "static/css/main.ae7c02d8.css",
+    "static/js/main.e4596c67.js"
   ]
 }
